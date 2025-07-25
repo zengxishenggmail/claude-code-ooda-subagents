@@ -103,7 +103,40 @@ Let's say you're debugging a tricky issue in your app. Here's how the OODA agent
 
 ## Getting Started 🏁
 
-Using OODA agents is super easy. Just tell your AI assistant what problem you're trying to solve, and it'll automatically deploy the right agents in the right order. The agents work together like a well-oiled machine, each doing what they do best.
+### Installation
+
+You've got two ways to add OODA agents to your project:
+
+#### Option 1: Git Submodule (Recommended)
+```bash
+# Add as a submodule to your project
+git submodule add https://github.com/al3rez/ooda-subagents.git .claude
+
+# Or if you already have a .claude directory
+git submodule add https://github.com/al3rez/ooda-subagents.git ooda-agents
+cp -r ooda-agents/agents .claude/
+```
+
+#### Option 2: Copy & Paste
+```bash
+# Clone the repo
+git clone https://github.com/al3rez/ooda-subagents.git
+
+# Copy the agents to your project
+cp -r ooda-subagents/agents /path/to/your/project/.claude/
+
+# Or install globally for all projects
+cp -r ooda-subagents/agents ~/.config/claude/
+```
+
+### Usage
+
+Once installed, using OODA agents is super easy. Just tell your AI assistant what problem you're trying to solve, and it'll automatically deploy the right agents in the right order. The agents work together like a well-oiled machine, each doing what they do best.
+
+For example:
+- "Help me debug this authentication issue" → Deploys all 4 agents in sequence
+- "Research how this codebase handles payments" → Starts with Observe & Orient
+- "Implement the solution we discussed" → Jumps straight to Act
 
 ## Pro Tips 🎪
 
