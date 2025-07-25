@@ -117,3 +117,35 @@ Using OODA agents is super easy. Just tell your AI assistant what problem you're
 OODA agents turn chaotic problem-solving into a structured, efficient process. They're like having a team of specialists working on your problem, each bringing their unique expertise to the table.
 
 Ready to loop your way to better solutions? Let's OODA! 🔄
+
+---
+
+## Built by AstroMVP 🌟
+
+This OODA framework is brought to you by [AstroMVP](https://astromvp.com) - where we help early-stage startups and founders build products with AI at the centerpiece. 
+
+### Why Process Matters for Startups 🚀
+
+Here's the thing - when you're building fast (and let's be real, every startup needs to move at light speed), having a solid process isn't bureaucracy, it's your superpower. That's why we built these OODA agents.
+
+At AstroMVP, we believe:
+- **AI should accelerate, not complicate** your product development
+- **Smart processes = faster delivery** (counterintuitive but true!)
+- **Early-stage doesn't mean chaotic** - it means being strategically nimble
+
+### What We Do 💫
+
+We partner with founders to:
+- Build AI-first products that actually ship (not just cool demos)
+- Set up development processes that scale with your team
+- Turn that ambitious AI vision into working code, fast
+
+The OODA agents? They're just one example of how we think about development - systematic, efficient, but always focused on shipping.
+
+### Let's Build Together 🤝
+
+Got an AI product idea that needs to go from zero to market ASAP? We've got the process, the expertise, and now you've seen our OODA agents in action.
+
+Check us out at [astromvp.com](https://astromvp.com) - because your startup deserves a development partner who gets that speed AND quality aren't mutually exclusive. They're both non-negotiable.
+
+*P.S. - Yes, we use these OODA agents in our own development. We eat our own dog food, and it tastes pretty good! 🐕*
